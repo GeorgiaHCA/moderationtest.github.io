@@ -6,7 +6,7 @@ Thank you for your interest in becoming a moderator for AutSPACEs. This is a hug
 * [How to moderate: step by step](#how-to-moderate-step-by-step)
 * [Code of Conduct](#code-of-conduct)
 * [Additional guidelines for writing on behalf of others](#additional-guidelines-for-writing-on-behalf-of-others)
-* [How we made the code-of-conduct](#how-we made-the-code-of-conduct)
+* [How we made the code-of-conduct](#how-we-made-the-code-of-conduct)
 
 ## What to expect as an AutSPACEs moderator
 
