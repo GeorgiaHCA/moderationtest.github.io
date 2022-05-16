@@ -6,6 +6,7 @@ Thank you for your interest in becoming a moderator for AutSPACEs. This is a hug
 * [How to moderate: step by step](#how-to-moderate-step-by-step)
 * [Code of Conduct](#code-of-conduct)
 * [Additional guidelines for writing on behalf of others](#additional-guidelines-for-writing-on-behalf-of-others)
+* [How we made the code-of-conduct](#how-we made-the-code-of-conduct)
 
 ## What to expect as an AutSPACEs moderator
 
@@ -163,4 +164,10 @@ Explanation of user safeguarding process.
 Action: Put information on moderation best practices on the internet into a paper to be used to support the adapted moderation strategy. 
 Research on best practice].
 
+# How we made the code-of-conduct
 
+The code of conduct and moderation guidelines have been co-created with the AutSPACEs autism community. 
+It is a 'living document', which means that you are always welcome to give us feedback so that we can improve it.
+We have been working on moderation in the AutSPACEs project management repository: https://github.com/alan-turing-institute/AutisticaCitizenScience/issues?q=is%3Aopen+is%3Aissue+milestone%3AModeration
+All of our decisions about the code of conduct and moderation process have been made based on extensive community discussions so it can best reflect and balance the needs and priorities of a diverse autism community. 
+You can read the content of manyy of those discussions here: https://github.com/alan-turing-institute/AutisticaCitizenScience/tree/master/community-recommendations/moderation-co-creation.  
