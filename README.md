@@ -168,6 +168,7 @@ Research on best practice].
 
 The code of conduct and moderation guidelines have been co-created with the AutSPACEs autism community. 
 It is a 'living document', which means that you are always welcome to give us feedback so that we can improve it.
-We have been working on moderation in the AutSPACEs project management repository: https://github.com/alan-turing-institute/AutisticaCitizenScience/issues?q=is%3Aopen+is%3Aissue+milestone%3AModeration
+We have been working on moderation in the AutSPACEs project management repository. You can find out more or take part by looking at the issues and Milestones labeled [Moderation](https://github.com/alan-turing-institute/AutisticaCitizenScience/issues?q=is%3Aopen+is%3Aissue+milestone%3AModeration).
+
 All of our decisions about the code of conduct and moderation process have been made based on extensive community discussions so it can best reflect and balance the needs and priorities of a diverse autism community. 
-You can read the content of manyy of those discussions here: https://github.com/alan-turing-institute/AutisticaCitizenScience/tree/master/community-recommendations/moderation-co-creation.  
+You can read the content of many of those discussions in the [Community Recommendations](https://github.com/alan-turing-institute/AutisticaCitizenScience/tree/master/community-recommendations/moderation-co-creation.) section of our project management GitHub repository. 
